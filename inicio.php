@@ -54,5 +54,6 @@ else
 	}
 	print "</table>";
 }
+echo "hola buenos dias";
 
 ?>
