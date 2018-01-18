@@ -54,6 +54,6 @@ else
 	}
 	print "</table>";
 }
-echo "hola buenos dias";
+echo "hola, he cambiado tu php";
 
 ?>
